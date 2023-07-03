@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+  <meta charset="UTF-8">
+  <title>Review Page</title>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+
+
+      <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+
+
+</head>
+
+<body>
+
+  <div class="table-users">
+   <div class="header">Reviews</div>
+
+   <table cellspacing="0">
+      <tr>
+         <th width="230">Title</th>
+         <th>PostingTime</th>
+         <th>VideoUrl</th>
+         <th >Views</th>
+         <th width="100">ThumbnailURL</th>
+      </tr>
+         {% for scrap in scrapping %}
+      <tr>
+          <td>{{scrap['Title']}}</td>
+         <td>{{scrap['PostingTime']}}</td>
+         <td>{{scrap['VideoUrl']}}</td>
+         <td>{{scrap['Views']}} </td>
+         <td>{{scrap['ThumbnailURL']}}</td>
+         
+       {% endfor %}
+   </table>
+</div>
+
+
+
+</body>
+
+</html>

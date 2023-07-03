@@ -1,0 +1,158 @@
+2023-07-03 09:56:17,478 - werkzeug - INFO -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+2023-07-03 09:56:28,645 - werkzeug - INFO - 172.18.0.2 - - [03/Jul/2023 09:56:28] "[37mGET / HTTP/1.1[0m" 200 -
+2023-07-03 09:56:28,908 - werkzeug - INFO - 172.18.0.2 - - [03/Jul/2023 09:56:28] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+2023-07-03 09:56:28,912 - werkzeug - INFO - 172.18.0.2 - - [03/Jul/2023 09:56:28] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+2023-07-03 09:56:29,044 - werkzeug - INFO - 172.18.0.2 - - [03/Jul/2023 09:56:29] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-07-03 09:56:31,836 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): dnfd3opnia.execute-api.us-east-1.amazonaws.com:443
+2023-07-03 09:56:37,088 - urllib3.connectionpool - DEBUG - https://dnfd3opnia.execute-api.us-east-1.amazonaws.com:443 "POST /default/youtube-api HTTP/1.1" 500 35
+2023-07-03 09:56:37,089 - root - INFO - Response not recieved from API
+2023-07-03 09:56:37,090 - werkzeug - INFO - 172.18.0.2 - - [03/Jul/2023 09:56:37] "[37mPOST /scrapping HTTP/1.1[0m" 200 -
+2023-07-03 09:58:24,678 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): dnfd3opnia.execute-api.us-east-1.amazonaws.com:443
+2023-07-03 09:58:27,469 - urllib3.connectionpool - DEBUG - https://dnfd3opnia.execute-api.us-east-1.amazonaws.com:443 "POST /default/youtube-api HTTP/1.1" 500 35
+2023-07-03 09:58:27,472 - root - INFO - Response not recieved from API
+2023-07-03 09:58:27,473 - werkzeug - INFO - 172.18.0.2 - - [03/Jul/2023 09:58:27] "[37mPOST /scrapping HTTP/1.1[0m" 200 -
+2023-07-03 09:58:45,329 - werkzeug - INFO -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+2023-07-03 09:58:51,424 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): 8rkvysfczg.execute-api.us-east-1.amazonaws.com:443
+2023-07-03 09:58:55,392 - urllib3.connectionpool - DEBUG - https://8rkvysfczg.execute-api.us-east-1.amazonaws.com:443 "POST /yt_scrapper_utkarsh HTTP/1.1" 500 35
+2023-07-03 09:58:55,393 - root - INFO - Response not recieved from API
+2023-07-03 09:58:55,394 - werkzeug - INFO - 172.18.0.2 - - [03/Jul/2023 09:58:55] "[37mPOST /scrapping HTTP/1.1[0m" 200 -
+2023-07-03 09:59:23,882 - werkzeug - INFO -  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+2023-07-03 10:05:45,025 - werkzeug - INFO -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+2023-07-03 10:06:02,035 - werkzeug - INFO - 172.18.0.2 - - [03/Jul/2023 10:06:02] "[37mGET / HTTP/1.1[0m" 200 -
+2023-07-03 10:06:11,391 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): dnfd3opnia.execute-api.us-east-1.amazonaws.com:443
+2023-07-03 10:06:14,637 - urllib3.connectionpool - DEBUG - https://dnfd3opnia.execute-api.us-east-1.amazonaws.com:443 "POST /default/youtube-api HTTP/1.1" 500 35
+2023-07-03 10:06:14,638 - root - INFO - Response not recieved from API
+2023-07-03 10:06:14,639 - werkzeug - INFO - 172.18.0.2 - - [03/Jul/2023 10:06:14] "[37mPOST /scrapping HTTP/1.1[0m" 200 -
+2023-07-03 10:11:13,890 - werkzeug - INFO -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+2023-07-03 10:11:18,972 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): dnfd3opnia.execute-api.us-east-1.amazonaws.com:443
+2023-07-03 10:11:24,219 - urllib3.connectionpool - DEBUG - https://dnfd3opnia.execute-api.us-east-1.amazonaws.com:443 "POST /default/youtube-api HTTP/1.1" 500 35
+2023-07-03 10:11:24,220 - root - INFO - Response not recieved from API
+2023-07-03 10:11:24,221 - werkzeug - INFO - 172.18.0.2 - - [03/Jul/2023 10:11:24] "[37mPOST /scrapping HTTP/1.1[0m" 200 -
+2023-07-03 10:15:56,758 - werkzeug - INFO - 172.18.0.2 - - [03/Jul/2023 10:15:56] "[37mGET / HTTP/1.1[0m" 200 -
+2023-07-03 10:15:59,582 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): dnfd3opnia.execute-api.us-east-1.amazonaws.com:443
+2023-07-03 10:16:02,378 - urllib3.connectionpool - DEBUG - https://dnfd3opnia.execute-api.us-east-1.amazonaws.com:443 "POST /default/youtube-api HTTP/1.1" 500 35
+2023-07-03 10:16:02,380 - root - INFO - Response not recieved from API
+2023-07-03 10:16:02,381 - werkzeug - INFO - 172.18.0.2 - - [03/Jul/2023 10:16:02] "[37mPOST /scrapping HTTP/1.1[0m" 200 -
+2023-07-03 10:17:58,409 - werkzeug - INFO -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+2023-07-03 10:18:08,235 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): dnfd3opnia.execute-api.us-east-1.amazonaws.com:443
+2023-07-03 10:18:25,522 - urllib3.connectionpool - DEBUG - https://dnfd3opnia.execute-api.us-east-1.amazonaws.com:443 "POST /default/youtube-api HTTP/1.1" 200 1779
+2023-07-03 10:18:25,524 - root - INFO - Successfull Response from API 200
+2023-07-03 10:18:25,526 - root - ERROR - Error occured :result.html
+2023-07-03 10:18:25,526 - werkzeug - INFO - 172.18.0.2 - - [03/Jul/2023 10:18:25] "[37mPOST /scrapping HTTP/1.1[0m" 200 -
+2023-07-03 10:18:52,019 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): dnfd3opnia.execute-api.us-east-1.amazonaws.com:443
+2023-07-03 10:19:10,761 - urllib3.connectionpool - DEBUG - https://dnfd3opnia.execute-api.us-east-1.amazonaws.com:443 "POST /default/youtube-api HTTP/1.1" 200 1779
+2023-07-03 10:19:10,764 - root - INFO - Successfull Response from API 200
+2023-07-03 10:19:10,764 - root - ERROR - Error occured :result.html
+2023-07-03 10:19:10,764 - werkzeug - INFO - 172.18.0.2 - - [03/Jul/2023 10:19:10] "[37mPOST /scrapping HTTP/1.1[0m" 200 -
+2023-07-03 10:19:39,374 - werkzeug - INFO -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+2023-07-03 10:19:43,428 - werkzeug - INFO - 172.18.0.2 - - [03/Jul/2023 10:19:43] "[37mGET / HTTP/1.1[0m" 200 -
+2023-07-03 10:19:46,132 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): dnfd3opnia.execute-api.us-east-1.amazonaws.com:443
+2023-07-03 10:20:05,620 - urllib3.connectionpool - DEBUG - https://dnfd3opnia.execute-api.us-east-1.amazonaws.com:443 "POST /default/youtube-api HTTP/1.1" 200 1779
+2023-07-03 10:20:05,623 - root - INFO - Successfull Response from API 200
+2023-07-03 10:20:05,627 - werkzeug - INFO - 172.18.0.2 - - [03/Jul/2023 10:20:05] "[37mPOST /scrapping HTTP/1.1[0m" 200 -
+2023-07-03 10:20:06,014 - werkzeug - INFO - 172.18.0.2 - - [03/Jul/2023 10:20:06] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2023-07-03 10:31:39,182 - werkzeug - INFO -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+2023-07-03 10:31:45,230 - werkzeug - INFO - 172.18.0.2 - - [03/Jul/2023 10:31:45] "[37mGET / HTTP/1.1[0m" 200 -
+2023-07-03 10:31:47,831 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): dnfd3opnia.execute-api.us-east-1.amazonaws.com:443
+2023-07-03 10:32:07,172 - urllib3.connectionpool - DEBUG - https://dnfd3opnia.execute-api.us-east-1.amazonaws.com:443 "POST /default/youtube-api HTTP/1.1" 200 1779
+2023-07-03 10:32:07,175 - root - INFO - Successfull Response from API 200
+2023-07-03 10:32:07,180 - werkzeug - INFO - 172.18.0.2 - - [03/Jul/2023 10:32:07] "[37mPOST /scrapping HTTP/1.1[0m" 200 -
+2023-07-03 10:32:07,321 - werkzeug - INFO - 172.18.0.2 - - [03/Jul/2023 10:32:07] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2023-07-03 11:00:24,000 - werkzeug - INFO -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+2023-07-03 11:00:35,271 - werkzeug - INFO - 172.18.0.2 - - [03/Jul/2023 11:00:35] "[37mGET / HTTP/1.1[0m" 200 -
+2023-07-03 11:00:37,587 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): dnfd3opnia.execute-api.us-east-1.amazonaws.com:443
+2023-07-03 11:00:58,154 - urllib3.connectionpool - DEBUG - https://dnfd3opnia.execute-api.us-east-1.amazonaws.com:443 "POST /default/youtube-api HTTP/1.1" 200 1779
+2023-07-03 11:00:58,157 - root - INFO - Successfull Response from API 200
+2023-07-03 11:00:58,161 - werkzeug - INFO - 172.18.0.2 - - [03/Jul/2023 11:00:58] "[37mPOST /scrapping HTTP/1.1[0m" 200 -
+2023-07-03 11:00:58,332 - werkzeug - INFO - 172.18.0.2 - - [03/Jul/2023 11:00:58] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2023-07-03 11:07:32,339 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2023-07-03 11:07:41,840 - werkzeug - INFO - 172.18.0.2 - - [03/Jul/2023 11:07:41] "[37mGET / HTTP/1.1[0m" 200 -
+2023-07-03 11:07:43,002 - werkzeug - INFO - 172.18.0.2 - - [03/Jul/2023 11:07:43] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+2023-07-03 11:07:43,004 - werkzeug - INFO - 172.18.0.2 - - [03/Jul/2023 11:07:43] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+2023-07-03 11:07:43,407 - werkzeug - INFO - 172.18.0.2 - - [03/Jul/2023 11:07:43] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-07-03 11:07:45,884 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): dnfd3opnia.execute-api.us-east-1.amazonaws.com:443
+2023-07-03 11:08:06,474 - urllib3.connectionpool - DEBUG - https://dnfd3opnia.execute-api.us-east-1.amazonaws.com:443 "POST /default/youtube-api HTTP/1.1" 200 1779
+2023-07-03 11:08:06,476 - root - INFO - Successfull Response from API 200
+2023-07-03 11:08:06,477 - root - ERROR - Error occured :name 'ls' is not defined
+2023-07-03 11:08:06,477 - werkzeug - INFO - 172.18.0.2 - - [03/Jul/2023 11:08:06] "[37mPOST /scrapping HTTP/1.1[0m" 200 -
+2023-07-03 11:08:19,121 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): dnfd3opnia.execute-api.us-east-1.amazonaws.com:443
+2023-07-03 11:08:37,118 - urllib3.connectionpool - DEBUG - https://dnfd3opnia.execute-api.us-east-1.amazonaws.com:443 "POST /default/youtube-api HTTP/1.1" 200 1779
+2023-07-03 11:08:37,121 - root - INFO - Successfull Response from API 200
+2023-07-03 11:08:37,121 - root - ERROR - Error occured :name 'ls' is not defined
+2023-07-03 11:08:37,122 - werkzeug - INFO - 172.18.0.2 - - [03/Jul/2023 11:08:37] "[37mPOST /scrapping HTTP/1.1[0m" 200 -
+2023-07-03 11:09:03,051 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2023-07-03 11:09:06,600 - werkzeug - INFO - 172.18.0.2 - - [03/Jul/2023 11:09:06] "[37mGET / HTTP/1.1[0m" 200 -
+2023-07-03 11:09:08,781 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): dnfd3opnia.execute-api.us-east-1.amazonaws.com:443
+2023-07-03 11:09:28,641 - urllib3.connectionpool - DEBUG - https://dnfd3opnia.execute-api.us-east-1.amazonaws.com:443 "POST /default/youtube-api HTTP/1.1" 200 1779
+2023-07-03 11:09:28,644 - root - INFO - Successfull Response from API 200
+2023-07-03 11:09:28,648 - werkzeug - INFO - 172.18.0.2 - - [03/Jul/2023 11:09:28] "[37mPOST /scrapping HTTP/1.1[0m" 200 -
+2023-07-03 11:09:28,766 - werkzeug - INFO - 172.18.0.2 - - [03/Jul/2023 11:09:28] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2023-07-03 11:12:17,614 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): dnfd3opnia.execute-api.us-east-1.amazonaws.com:443
+2023-07-03 11:12:37,738 - urllib3.connectionpool - DEBUG - https://dnfd3opnia.execute-api.us-east-1.amazonaws.com:443 "POST /default/youtube-api HTTP/1.1" 200 1779
+2023-07-03 11:12:37,740 - root - INFO - Successfull Response from API 200
+2023-07-03 11:12:37,741 - werkzeug - INFO - 172.18.0.2 - - [03/Jul/2023 11:12:37] "[37mPOST /scrapping HTTP/1.1[0m" 200 -
+2023-07-03 11:12:37,866 - werkzeug - INFO - 172.18.0.2 - - [03/Jul/2023 11:12:37] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2023-07-03 11:14:04,359 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2023-07-03 11:14:07,272 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): dnfd3opnia.execute-api.us-east-1.amazonaws.com:443
+2023-07-03 11:14:38,045 - urllib3.connectionpool - DEBUG - https://dnfd3opnia.execute-api.us-east-1.amazonaws.com:443 "POST /default/youtube-api HTTP/1.1" 503 33
+2023-07-03 11:14:38,047 - root - INFO - Response not recieved from API
+2023-07-03 11:14:38,048 - werkzeug - INFO - 172.18.0.2 - - [03/Jul/2023 11:14:38] "[37mPOST /scrapping HTTP/1.1[0m" 200 -
+2023-07-03 11:15:03,935 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2023-07-03 11:15:05,685 - werkzeug - INFO - 172.18.0.2 - - [03/Jul/2023 11:15:05] "[37mGET / HTTP/1.1[0m" 200 -
+2023-07-03 11:15:08,127 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): dnfd3opnia.execute-api.us-east-1.amazonaws.com:443
+2023-07-03 11:15:27,660 - urllib3.connectionpool - DEBUG - https://dnfd3opnia.execute-api.us-east-1.amazonaws.com:443 "POST /default/youtube-api HTTP/1.1" 200 1779
+2023-07-03 11:15:27,662 - root - INFO - Successfull Response from API 200
+2023-07-03 11:15:27,667 - werkzeug - INFO - 172.18.0.2 - - [03/Jul/2023 11:15:27] "[37mPOST /scrapping HTTP/1.1[0m" 200 -
+2023-07-03 11:15:27,742 - werkzeug - INFO - 172.18.0.2 - - [03/Jul/2023 11:15:27] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2023-07-03 11:16:29,446 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2023-07-03 11:16:31,804 - werkzeug - INFO - 172.18.0.2 - - [03/Jul/2023 11:16:31] "[37mGET / HTTP/1.1[0m" 200 -
+2023-07-03 11:16:34,352 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): dnfd3opnia.execute-api.us-east-1.amazonaws.com:443
+2023-07-03 11:16:44,177 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2023-07-03 11:16:48,108 - werkzeug - INFO - 172.18.0.2 - - [03/Jul/2023 11:16:48] "[37mGET / HTTP/1.1[0m" 200 -
+2023-07-03 11:16:50,169 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): dnfd3opnia.execute-api.us-east-1.amazonaws.com:443
+2023-07-03 11:17:09,953 - urllib3.connectionpool - DEBUG - https://dnfd3opnia.execute-api.us-east-1.amazonaws.com:443 "POST /default/youtube-api HTTP/1.1" 200 1779
+2023-07-03 11:17:09,956 - root - INFO - Successfull Response from API 200
+2023-07-03 11:17:09,960 - werkzeug - INFO - 172.18.0.2 - - [03/Jul/2023 11:17:09] "[37mPOST /scrapping HTTP/1.1[0m" 200 -
+2023-07-03 11:17:10,115 - werkzeug - INFO - 172.18.0.2 - - [03/Jul/2023 11:17:10] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2023-07-03 11:18:29,194 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2023-07-03 11:18:32,190 - werkzeug - INFO - 172.18.0.2 - - [03/Jul/2023 11:18:32] "[37mGET / HTTP/1.1[0m" 200 -
+2023-07-03 11:18:35,564 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): dnfd3opnia.execute-api.us-east-1.amazonaws.com:443
+2023-07-03 11:18:54,421 - urllib3.connectionpool - DEBUG - https://dnfd3opnia.execute-api.us-east-1.amazonaws.com:443 "POST /default/youtube-api HTTP/1.1" 200 1779
+2023-07-03 11:18:54,424 - root - INFO - Successfull Response from API 200
+2023-07-03 11:18:54,428 - werkzeug - INFO - 172.18.0.2 - - [03/Jul/2023 11:18:54] "[37mPOST /scrapping HTTP/1.1[0m" 200 -
+2023-07-03 11:18:54,648 - werkzeug - INFO - 172.18.0.2 - - [03/Jul/2023 11:18:54] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2023-07-03 11:19:29,201 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2023-07-03 11:19:31,519 - werkzeug - INFO - 172.18.0.2 - - [03/Jul/2023 11:19:31] "[37mGET / HTTP/1.1[0m" 200 -
+2023-07-03 11:19:33,589 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): dnfd3opnia.execute-api.us-east-1.amazonaws.com:443
+2023-07-03 11:19:52,362 - urllib3.connectionpool - DEBUG - https://dnfd3opnia.execute-api.us-east-1.amazonaws.com:443 "POST /default/youtube-api HTTP/1.1" 200 1779
+2023-07-03 11:19:52,364 - root - INFO - Successfull Response from API 200
+2023-07-03 11:19:52,369 - werkzeug - INFO - 172.18.0.2 - - [03/Jul/2023 11:19:52] "[37mPOST /scrapping HTTP/1.1[0m" 200 -
+2023-07-03 11:19:52,802 - werkzeug - INFO - 172.18.0.2 - - [03/Jul/2023 11:19:52] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2023-07-03 11:21:19,248 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2023-07-03 11:21:22,078 - werkzeug - INFO - 172.18.0.2 - - [03/Jul/2023 11:21:22] "[37mGET / HTTP/1.1[0m" 200 -
+2023-07-03 11:21:24,132 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): dnfd3opnia.execute-api.us-east-1.amazonaws.com:443
+2023-07-03 11:21:44,432 - urllib3.connectionpool - DEBUG - https://dnfd3opnia.execute-api.us-east-1.amazonaws.com:443 "POST /default/youtube-api HTTP/1.1" 200 1779
+2023-07-03 11:21:44,435 - root - INFO - Successfull Response from API 200
+2023-07-03 11:21:44,440 - werkzeug - INFO - 172.18.0.2 - - [03/Jul/2023 11:21:44] "[37mPOST /scrapping HTTP/1.1[0m" 200 -
+2023-07-03 11:21:44,497 - werkzeug - INFO - 172.18.0.2 - - [03/Jul/2023 11:21:44] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2023-07-03 11:22:50,304 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2023-07-03 11:22:54,353 - werkzeug - INFO - 172.18.0.2 - - [03/Jul/2023 11:22:54] "[37mGET / HTTP/1.1[0m" 200 -
+2023-07-03 11:22:56,318 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): dnfd3opnia.execute-api.us-east-1.amazonaws.com:443
+2023-07-03 11:23:27,090 - urllib3.connectionpool - DEBUG - https://dnfd3opnia.execute-api.us-east-1.amazonaws.com:443 "POST /default/youtube-api HTTP/1.1" 503 33
+2023-07-03 11:23:27,092 - root - INFO - Response not recieved from API
+2023-07-03 11:23:27,093 - werkzeug - INFO - 172.18.0.2 - - [03/Jul/2023 11:23:27] "[37mPOST /scrapping HTTP/1.1[0m" 200 -
+2023-07-03 11:23:33,348 - werkzeug - INFO - 172.18.0.2 - - [03/Jul/2023 11:23:33] "[37mGET / HTTP/1.1[0m" 200 -
+2023-07-03 11:23:41,906 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2023-07-03 11:23:43,856 - werkzeug - INFO - 172.18.0.2 - - [03/Jul/2023 11:23:43] "[37mGET / HTTP/1.1[0m" 200 -
+2023-07-03 11:23:48,038 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): dnfd3opnia.execute-api.us-east-1.amazonaws.com:443
+2023-07-03 11:24:07,054 - urllib3.connectionpool - DEBUG - https://dnfd3opnia.execute-api.us-east-1.amazonaws.com:443 "POST /default/youtube-api HTTP/1.1" 200 1779
+2023-07-03 11:24:07,057 - root - INFO - Successfull Response from API 200
+2023-07-03 11:24:07,061 - werkzeug - INFO - 172.18.0.2 - - [03/Jul/2023 11:24:07] "[37mPOST /scrapping HTTP/1.1[0m" 200 -
+2023-07-03 11:24:07,219 - werkzeug - INFO - 172.18.0.2 - - [03/Jul/2023 11:24:07] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2023-07-03 11:30:52,768 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2023-07-03 11:30:56,738 - werkzeug - INFO - 172.18.0.2 - - [03/Jul/2023 11:30:56] "[37mGET / HTTP/1.1[0m" 200 -
+2023-07-03 11:30:59,594 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): dnfd3opnia.execute-api.us-east-1.amazonaws.com:443
+2023-07-03 11:31:19,111 - urllib3.connectionpool - DEBUG - https://dnfd3opnia.execute-api.us-east-1.amazonaws.com:443 "POST /default/youtube-api HTTP/1.1" 200 1779
+2023-07-03 11:31:19,114 - root - INFO - Successfull Response from API 200
+2023-07-03 11:31:19,410 - werkzeug - INFO - 172.18.0.2 - - [03/Jul/2023 11:31:19] "[37mPOST /scrapping HTTP/1.1[0m" 200 -
+2023-07-03 11:31:19,594 - werkzeug - INFO - 172.18.0.2 - - [03/Jul/2023 11:31:19] "[33mGET /style.css HTTP/1.1[0m" 404 -
